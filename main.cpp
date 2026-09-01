@@ -4,6 +4,6 @@
 // CIS 5 Week 01
 
 int main() {
-  std::cout << "Hello World!\n";
+  std::cout << "Hi even though i change i still work!\n";
   return 0;
 }
