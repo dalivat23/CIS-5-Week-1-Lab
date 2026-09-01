@@ -1,9 +1,9 @@
 #include <iostream>
 
-// Lab 1 — Your Name
+// Lab 1 — Tristan Daliva
 // CIS 5 Week 01
 
 int main() {
-  std::cout << "Hi even though i change i still work!\n";
+  std::cout << "Hello I still work hopefully!\n";
   return 0;
 }
